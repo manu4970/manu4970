@@ -7,6 +7,7 @@
 - 📫 How to reach me **manuelperez497078@gmail.com**
 
 <h2>Lenguajes</h2>
-![Static Badge](https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&color=yellow)
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&color=yellow">
+
 <a href="https://github.com/alwinw?tab=repositories&language=javascript" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 
