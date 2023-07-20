@@ -8,11 +8,19 @@
 
 <h2>Contactame</h2>
 <p>
-  <a href="https://www.linkedin.com/in/manuel-perez-86430310a/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
-</a>
+  <a href="https://www.linkedin.com/in/manuel-perez-86430310a/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 <h2>Lenguajes</h2>
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&color=yellow">
+<p>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&color=yellow"></a>
+  <a><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+</p>
+<h2>Frameworks</h2>
+<p>
+  <a><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask"></a>
+</p>
+
 
 
