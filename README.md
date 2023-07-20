@@ -6,5 +6,7 @@
 
 - 📫 How to reach me **manuelperez497078@gmail.com**
 
+<h2>Lenguajes</h2>
 <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+<a href="https://github.com/alwinw?tab=repositories&language=javascript" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 
