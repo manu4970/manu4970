@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Perez</h1>
+<h1 align="center">Hola 👋, Soy Manuel Perez</h1>
 <h3 align="center">Full Stack Developer | Tecnico en Telecomunicaciones</h3>
 <h4>Bienvenido a mi GitHub, Actualmente termine de estudiar desarrollo full stack luego de haber trabajado 4 años como Soporte TI, desidi cambiar el rumbo de mi carrera. Siempre me llamo la atencion la programacion y alfin voy a poder dedicarme al desarrollo</h4>
 
