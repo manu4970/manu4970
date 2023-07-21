@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Tecnico en Telecomunicaciones</h3>
 <h4>Bienvenido a mi GitHub, Actualmente termine de estudiar desarrollo full stack luego de haber trabajado 4 años como Soporte TI, desidi cambiar el rumbo de mi carrera. Siempre me llamo la atencion la programacion y alfin voy a poder dedicarme al desarrollo</h4>
 
-- 🌱 I’m currently learning **Typescrip**
+- 🌱 I’m currently learning **Typescript**, **Docker**, **Postgres**
 
 - 📫 How to reach me **manuelperez497078@gmail.com**
 
@@ -27,6 +27,6 @@
   <a><img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"></a>
 </p>
+<h2>Estadisticas</h2>
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
