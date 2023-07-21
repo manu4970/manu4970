@@ -29,4 +29,4 @@
 </p>
 <h2>Estadisticas</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manu4970&theme=transparent&show_icons=true)
