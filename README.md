@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Tecnico en Telecomunicaciones</h3>
 <h4>Bienvenido a mi GitHub, Actualmente termine de estudiar desarrollo full stack luego de haber trabajado 4 años como Soporte TI, decidí cambiar el rumbo de mi carrera. Siempre me llamo la atención la programación y al fin voy a poder dedicarme al desarrollo</h4>
 
-- 🌱 Actualmente estoy estudiando: **Typescript**, **Docker**, **Postgres**
+- 🌱 Actualmente estoy estudiando: **Typescript**, **Node**
 
 - 📫 Como contactarme: **manuelperez497078@gmail.com**
 
