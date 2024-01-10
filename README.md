@@ -6,6 +6,8 @@
 
 - 📫 Como contactarme: **manuelperez497078@gmail.com**
 
+- 📃 Portafolio: **www.manuelperezf.com**
+
 <h2>Contactame</h2>
 <p>
   <a href="https://www.linkedin.com/in/manuelperezf/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
